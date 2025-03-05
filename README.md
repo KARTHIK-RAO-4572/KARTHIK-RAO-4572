@@ -1,16 +1,12 @@
 # Advancing Technology For Humanity
 Warm Greetings to you!!\
 \
-My name is `Karthik`
+My name is `Karthik`. I am a fast learing individual with keen observation and active listening skills. I am currently pursuing Bachelor of Technology (B. Tech) in Artificial Intelligence at Anurag University, India. With the immense interest in evolving technology and great enthusiasm in experimenting, I append new skills to my tech stack on regular basis. Please do visit my repositories and feel free to give feedback. 
 
-# About Me
-
-Warm greetings to you!!
-My Name is Karthik. I am a fast learning individual with keen observation and active listening skills. I am currently pursuing Bachelor of Technology in Artificial Intelligence at Anurag University, India. With the immense interest in technology, especially Artificial Intelligence and Cyber Security, I append new skills to my tech stack regularly. I am currently looking for an opportunity to exercise my expertise by solving real world problems.
-
+**Quick Links**
 **Mail:** karthikraopadala@gmail.com | padalakarthikrao@gmail.com
-**LinkedIn:** 
-**Resume:**
+**LinkedIn:** [Karthik-Rao-4572](https://www.linkedin.com/in/karthik-rao-padala/)
+**Resume:** [Karthik-Rao-Resume](https://drive.google.com/file/d/1yNq7Dic6LNIePa49gaglzceOQuh7AhdZ/view?usp=sharing)
 
 <!--
 **KARTHIK-RAO-4572/KARTHIK-RAO-4572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
