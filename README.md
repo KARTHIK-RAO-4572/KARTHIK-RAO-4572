@@ -4,8 +4,8 @@ Warm Greetings to you!!\
 My name is `Karthik`. I am a fast learing individual with keen observation and active listening skills. I am currently pursuing Bachelor of Technology (B. Tech) in Artificial Intelligence at Anurag University, India. With the immense interest in evolving technology and great enthusiasm in experimenting, I append new skills to my tech stack on regular basis. Please do visit my repositories and feel free to give feedback. 
 
 **Quick Links**
-**Mail:** karthikraopadala@gmail.com | padalakarthikrao@gmail.com
-**LinkedIn:** [Karthik-Rao-4572](https://www.linkedin.com/in/karthik-rao-padala/)
+**Mail:** karthikraopadala@gmail.com | padalakarthikrao@gmail.com \
+**LinkedIn:** [Karthik-Rao-4572](https://www.linkedin.com/in/karthik-rao-padala/) \
 **Resume:** [Karthik-Rao-Resume](https://drive.google.com/file/d/1yNq7Dic6LNIePa49gaglzceOQuh7AhdZ/view?usp=sharing)
 
 <!--
