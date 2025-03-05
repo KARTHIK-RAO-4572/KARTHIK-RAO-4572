@@ -1,10 +1,6 @@
 # Advancing Technology For Humanity
-
-
-
-
-
-# ADVANCING TECHNOLOGY FOR HUMANITY
+Warm Greetings to you!!
+My name is `Karthik`
 
 # About Me
 
