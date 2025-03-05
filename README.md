@@ -1,7 +1,4 @@
-<p style="text-align:center;">Advancing Technology For Humanity</p>
-## Advancing Technology For Humanity
-Warm greetings to you!!
-
+# Advancing Technology For Humanity
 
 
 
