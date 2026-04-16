@@ -5,8 +5,7 @@
 
 **Quick Links**\
 **Mail:** karthikraopadala@gmail.com | padalakarthikrao@gmail.com \
-**LinkedIn:** [Karthik-Rao-4572](https://www.linkedin.com/in/karthik-rao-padala/) \
-**Resume:** [Karthik-Rao-Resume](https://drive.google.com/file/d/1yNq7Dic6LNIePa49gaglzceOQuh7AhdZ/view?usp=sharing)
+**LinkedIn:** [Karthik-Rao-4572](https://www.linkedin.com/in/karthik-rao-padala/) 
 
 <!--
 **KARTHIK-RAO-4572/KARTHIK-RAO-4572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
